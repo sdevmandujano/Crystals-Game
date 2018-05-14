@@ -1,0 +1,44 @@
+
+body{
+	background-image: url(https://fantasyanime.com/finalfantasy/fftactics/images/fftacticswlpr06-1920x1200.jpg);
+	font-family: 'MedievalSharp', cursive;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  width: 850px;
+}
+
+#div1 {
+    display: inline-block;
+    width:146px;
+    height:310px;
+    content: url(https://vignette.wikia.nocookie.net/finalfantasy/images/f/f0/FFIII_Model_-_Dark_Fire_Crystal.png/revision/latest?cb=20150312024346);
+}
+#div2 {
+    vertical-align:top;
+    display: inline-block;
+    width:146px;
+    height:310px;
+    content: url(https://vignette.wikia.nocookie.net/finalfantasy/images/3/31/FFIII_Model_-_Wind_Crystal.png/revision/latest?cb=20150312024349);
+}
+#div3 {
+    vertical-align:top;
+    display: inline-block;
+    width:146px;
+    height:310px;
+    content: url(https://vignette.wikia.nocookie.net/finalfantasy/images/4/4f/FFIII_Model_-_Dark_Earth_Crystal.png/revision/latest?cb=20150312024346);
+}
+#div4 {
+    vertical-align:top;
+    display: inline-block;
+    width:146px;
+    height:310px;
+    content: url(https://image.ibb.co/iiMJ1J/wind.png);
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+}
